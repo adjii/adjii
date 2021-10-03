@@ -1,6 +1,6 @@
 # こんにちは <img src="https://c.tenor.com/twfR7wm9zs4AAAAi/mafumafu-cute.gif" width="50px"> 
 
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adjii&layout=compact"> 
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adjii&layout=compact&theme=tokyonight"> 
 
 📜 Animes
 

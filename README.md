@@ -1,6 +1,6 @@
 # こんにちは <img src="https://c.tenor.com/twfR7wm9zs4AAAAi/mafumafu-cute.gif" width="50px"> 
 
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adjii&layout=compact&theme=white"> 
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deyka-s&layout=compact&theme=white"> 
 
 📜 Animes
 
@@ -12,6 +12,6 @@
 </p> 
 
 <!---
-adjii/adjii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+desyka-s/desyka-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

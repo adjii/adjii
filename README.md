@@ -9,8 +9,3 @@
 <p align="center"> 
   <strong><a href="https://www.kaggle.com/desykaadji">Kaggle</a></strong>
 </p> 
-
-<!---
-profile/profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
